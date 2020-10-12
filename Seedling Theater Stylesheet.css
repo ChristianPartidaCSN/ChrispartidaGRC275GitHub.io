@@ -1,0 +1,72 @@
+/* My Custom CSS */
+
+body {
+    background-color: beige;
+    padding-top: 25px;
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
+}
+
+
+h3{
+    font-size: 12px;
+}
+
+p {
+    font-family: 'Cinzel', serif;
+font-family: 'Raleway', sans-serif;
+}
+ul {
+    overflow: hidden
+}
+
+
+.jumbotron{
+    margin: auto;
+    background-color: crimson;
+    line-height: 1;
+    height: 170px;
+}
+
+.row{
+    padding: 15px;
+    height: 300px;
+    width: 100%;
+        
+}
+.headerimage{
+    display: block;
+    max-width: 100px;
+    height: auto;
+}
+
+.caption{
+    text-align: right;
+}
+
+.classes1 {
+    display: block;
+    margin-right: auto;
+    width: 600px;
+    height: 100%
+}
+
+.p-2 {
+    width: 600px;
+} 
+
+.footer {
+    background: #aaa;
+}
+    
+.footer
+.push{
+    height: 50px;
+    margin-top: 350px
+}
+.footer h3 {
+    text-align: center;
+    padding-top: 10px
+}
